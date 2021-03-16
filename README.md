@@ -1,6 +1,8 @@
 # Mean_Bot
 Trading bot for Coinbase Pro
 
+Make sure you already have an account with Coinbase or Coinbase Pro.
+
 # How to use:
 - Get API Key: https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro
 - Open Keys.py and enter the API Keys into the variables.
