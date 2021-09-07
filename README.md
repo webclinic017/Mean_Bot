@@ -1,13 +1,18 @@
 # Mean_Bot
 Trading bot for Coinbase Pro
 
+# Requirements:
+- Coinbase Pro account: https://pro.coinbase.com/
+- Python 3.7 installed: https://www.python.org/downloads/
+- cbpro package installed: https://pypi.org/project/cbpro/
+
 Make sure you already have an account with Coinbase or Coinbase Pro.
 
 # How to use:
-- Get API Key: https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro
-- Open Keys.py and enter the API Keys into the variables.
-- Deposit into the portfolio you will use in Coinbase Pro
-- Run your bot instance
+- Get your portfolio API Key: https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro
+- In Keys.py enter the API Keys.
+- Deposit into the portfolio you will use in Coinbase Pro.
+- Run your bot instance.
 
 Disclaimer:
 This is an experimental bot, use at your own risk.
