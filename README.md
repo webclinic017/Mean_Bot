@@ -8,7 +8,7 @@ Trading bot for Coinbase Pro
 
 # How to use:
 - Get your portfolio API Key: https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro
-- In Keys.py enter the API Keys.
+- In Keys.py enter your portfolio API Keys.
 - Deposit into the portfolio you will use in Coinbase Pro.
 - Run your bot instance.
 
