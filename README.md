@@ -10,4 +10,4 @@ Make sure you already have an account with Coinbase or Coinbase Pro.
 - Run your bot instance
 
 Disclaimer:
-I am not a financial advisor and this is not financial advice, use at your own risk.
+This is an experimental bot, use at your own risk.
