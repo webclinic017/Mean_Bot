@@ -6,8 +6,6 @@ Trading bot for Coinbase Pro
 - Python 3.7 installed: https://www.python.org/downloads/
 - cbpro package installed: https://pypi.org/project/cbpro/
 
-Make sure you already have an account with Coinbase or Coinbase Pro.
-
 # How to use:
 - Get your portfolio API Key: https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro
 - In Keys.py enter the API Keys.
